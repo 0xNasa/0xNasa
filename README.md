@@ -1,43 +1,35 @@
-# Joe Josue
+# Hi, I'm Joe Josue 👋
 
-I build in ambiguity.
+📍 Philippines | ⚙️ Founder / Operator | 🚀 0 -> 1 builder
 
-I work with founders, teams, and operators during 0 -> 1 moments:
-new products, new business units, and hard transitions that need both speed and clarity.
+> I help teams move from ambiguity to execution. First principles, clear systems, fast shipping.
 
-Most of my work lives at the intersection of strategy and execution.
-I care about first principles, clean systems, and shipping things that compound.
+I work with founders, teams, and operators on new products, new business units, and high-stakes transitions where momentum matters.
 
-## Now
+## Current Focus
 
-Right now I am focused on:
+- Helping frontier-tech teams install operating rhythm from day one
+- Building practical systems for GTM, decision-making, and delivery
+- Writing working notes on strategy, execution, and leverage
 
-- Helping frontier-tech teams go from idea to operating rhythm
-- Building practical systems for decision-making, GTM, and delivery
-- Writing and thinking in public as I refine how I work
+## Selected Work
 
-## Work
+- Metasports.gg - Co-Founder / CEO (acquired, 2023)
+- Djinn.App - Founder (acquired, 2024)
+- Acadarena - Angel investor (seed, 2020)
+- Strategic operator work across gaming, fintech, and web3 ecosystems
 
-Over the years, I have operated across creative studios, startups, esports, and web3 ecosystems.
-Usually as a founder, advisor, or embedded operator brought in when things need to move.
-
-Selected highlights:
-
-- Co-Founder / CEO, Metasports.gg (acquired, 2023)
-- Founder, Djinn.App (acquired, 2024)
-- Angel investor, Acadarena (seed, 2020)
-
-## Philosophy
-
-I believe good operating is simple:
+## Operating Philosophy
 
 - Name the real problem
 - Reduce noise
 - Ship the next correct thing
 - Repeat with discipline
 
-## Elsewhere
+---
 
-- Website: [joejosue.com](https://joejosue.com)
-- LinkedIn: [linkedin.com/in/joejosue](https://linkedin.com/in/joejosue)
-- Email: [mail@joejosue.com](mailto:mail@joejosue.com)
+## Connect
+
+- 🌐 [joejosue.com](https://joejosue.com)
+- 💼 [linkedin.com/in/joejosue](https://linkedin.com/in/joejosue)
+- ✉️ [mail@joejosue.com](mailto:mail@joejosue.com)

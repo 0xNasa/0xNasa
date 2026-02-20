@@ -6,12 +6,7 @@ I work with select founders, teams, and operators on new products, new business 
 
 > I help teams move from ambiguity to execution. First principles, clear systems, fast shipping.
 
-## Operating Philosophy
-
-- Name the real problem
-- Reduce noise
-- Ship the next correct thing
-- Repeat with discipline
+## Sic Parvis Magna
 
 ---
 

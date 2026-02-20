@@ -8,8 +8,6 @@ I work with select founders, teams, and operators on new products, new business 
 
 ## Sic Parvis Magna
 
----
-
 ## Connect
 
 - 🌐 [joejosue.com](https://joejosue.com)

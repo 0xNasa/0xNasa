@@ -1,10 +1,14 @@
-# Hi, I'm Joe 👋
+# Hi, I'm Joe
 
-📍 Philippines | ⚙️ Founder / Operator | 🚀 0 -> 1 Focus
+⚙️ Founder / Operator | 🚀 0 -> 1 Focus
 
 I work with select founders, teams, and operators on new products, new business units, and high-stakes transitions where momentum matters.
 
-> I help teams move from ambiguity to execution. First principles, clear systems, fast shipping.
+> I help teams apply first principles, clear systems, fast shipping.
+> Built two startups that have been acquired (one solo): metasports.gg and djinn.app
+> Sectors of depth experience: IP Entertainment (Anime, Comics, Gaming), Fintech, Blockchain.
+
+Currently: Select Consulting; and AI Pilled -> Agentic Building (Claude Code/Codex, Memory Research, x402 applications, Swarms and Harnesses!)
 
 ## Sic Parvis Magna
 

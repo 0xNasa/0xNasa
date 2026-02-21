@@ -6,7 +6,7 @@ I work with select founders, teams, and operators on new products, new business 
 
 > I help teams apply first principles, clear systems, fast shipping. <br>
 > Built two startups that have been acquired (one solo): metasports.gg and djinn.app <br>
-> Sectors of depth experience: IP Entertainment (Anime, Comics, Gaming), Fintech, Blockchain.
+> Sectors with experience depth: IP Entertainment (Anime, Comics, Gaming), Fintech, Blockchain.
 
 Currently: Select Consulting; and AI Pilled -> Agentic Building (Claude Code/Codex, Memory Research, x402 applications, Swarms and Harnesses!)
 
